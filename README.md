@@ -1,5 +1,5 @@
 
-![Image](https://cdn.discordapp.com/attachments/1261466827968745492/1277691700244123721/d1772bf5-b2ea-468f-9b6a-a208e1beaa9c.jpg?ex=66ce169f&is=66ccc51f&hm=387f1b13f0552d6118889a8be8017f2da3c80b07278e11620af7b11a0cef5345&)
+![Image](https://i.pinimg.com/736x/2d/8b/1b/2d8b1b9f680e68bef82bfcf21f7c51a6.jpg)
 
 this is one of my open source malwares
 
